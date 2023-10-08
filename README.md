@@ -6,3 +6,8 @@ In the first phase, a Feed-Forward Neural Network is developed from scratch, i.e
 ![im1](./images/1.JPG)
 
 In the second phase, prepared methods in the Tensorflow.Keras library are used to build the NN. This time, the network is trained on a dataset containing hand-written A-Z alphabets. The effect of momentum and Adam optimizer, number of epochs, and L2 regularization term on model accuracy are discussed. 
+
+![im2](./images/2.JPG)
+
+
+![im3](./images/3.JPG)
